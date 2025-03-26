@@ -1,8 +1,2 @@
-//add new feature- form 
-// make a login page   
-// resolve final conflict in feature
- 
-// make a login page 
+// Add New Feature 
 
-//add new feature-button
-//add new feature- form
